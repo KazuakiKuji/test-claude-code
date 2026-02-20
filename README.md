@@ -6,6 +6,14 @@
 
 バニラHTML/CSS/JavaScriptで実装したシンプルなTODOアプリ。フレームワーク不使用で、LocalStorageによるデータ永続化に対応している。
 
+### デプロイ
+
+<https://kazuakikuji.github.io/test-claude-code/>
+
+### アプリ画像
+
+![アプリ画像](./docs/images/app-preview-1.png)
+
 ## 背景
 
 Claude Codeを用いた開発フローの検証を目的として作成したサンプルリポジトリ。シンプルなTODOアプリを題材に、計画立案からコーディング・コミットまでの一連の作業を試している。
@@ -31,7 +39,7 @@ cd test-claude-code
 
 サーバー不要。以下の3ファイルがあれば動作する。
 
-```
+```text
 test-claude-code/
 ├── index.html   # UIマークアップ
 ├── style.css    # スタイル

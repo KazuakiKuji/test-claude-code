@@ -6,6 +6,14 @@ English | [日本語](../../README.md)
 
 A simple TODO app built with vanilla HTML, CSS, and JavaScript. No frameworks required — data is persisted via LocalStorage.
 
+### Deploy
+
+<https://kazuakikuji.github.io/test-claude-code/>
+
+### App Preview
+
+![App Preview](../images/app-preview-1.png)
+
 ## Background
 
 This is a sample repository created to explore a development workflow using Claude Code. Using a simple TODO app as a subject, the project covers the full cycle from planning to coding and committing.
@@ -31,7 +39,7 @@ cd test-claude-code
 
 No server is required. The app runs with just these three files.
 
-```
+```text
 test-claude-code/
 ├── index.html   # UI markup
 ├── style.css    # Styles
